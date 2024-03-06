@@ -20,29 +20,7 @@
       </div>
     </div>
     <div class="form-group row">
-      <label for="matkul" class="col-4 col-form-label">Mata Kuliah</label>
-      <div class="col-8">
-        <select id="matkul" name="matkul" class="custom-select" required="required">
-          <option value="Pemrograman Web">Pemrograman Web</option>
-          <option value="B.Inggris">B.Inggris</option>
-          <option value="Statistika">Statistika</option>
-        </select>
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="uts" class="col-4 col-form-label">Nilai UTS</label>
-      <div class="col-8">
-        <input id="uts" name="uts" type="text" class="form-control" required="required">
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="uas" class="col-4 col-form-label">Nilai UAS</label>
-      <div class="col-8">
-        <input id="uas" name="uas" type="text" class="form-control" required="required">
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="tugas" class="col-4 col-form-label">Nilai Tugas</label>
+      <label for="tugas" class="col-4 col-form-label">Nilai Ujian</label>
       <div class="col-8">
         <input id="tugas" name="tugas" type="text" class="form-control" required="required">
       </div>
